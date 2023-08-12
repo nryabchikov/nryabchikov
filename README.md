@@ -1,5 +1,6 @@
 ### Happy to see you here 👋
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!  
+
 I'm Nikita Ryabchikov – an aspiring Software Engineer with a focus on proficiency and achieving results.
 
 <!--
