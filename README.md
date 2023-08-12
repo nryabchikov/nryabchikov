@@ -1,4 +1,6 @@
 ### Happy to see you here 👋
+Welcome to my GitHub profile! 
+I'm Nikita Ryabchikov – an aspiring Software Engineer with a focus on proficiency and achieving results.
 
 <!--
 **nryabchikov/nryabchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
